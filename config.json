@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchperify",
+        "uuid": 9146850,
+        "checksum": "7kuvgw"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
